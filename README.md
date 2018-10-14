@@ -9,6 +9,4 @@ Las cabeceras están en template.csv. Sólo pegar y correr el código.
 MIT see LICENSE.
 
 # Autor
-Felipe Chang <felipechang@hardcake.org> @mr_pepian
-
-
+Felipe Chang <felipechang@hardcake.org>
